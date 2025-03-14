@@ -1,0 +1,37 @@
+@font-face {
+    font-family: tuffAsh ;
+    src: url(Coolvetica\ Rg\ It.otf);
+}
+
+html {
+        background-color: #dec98c;
+    }
+    h1 {
+        font-family: tuffAsh;
+        text-align: end;
+        text-decoration: wavy;
+    }
+
+    p {
+        font-family: tuffAsh;
+    }
+
+    .colored {
+        color: #635d52;
+    }
+
+    #tiny {
+        width: 30px;
+        height: 20px;
+    }
+    a {
+        font-family: tuffAsh;
+        text-decoration: solid;
+        color: #c9af61;
+    }
+
+    a:hover{
+        text-decoration:double;
+        color: #b8a263;
+        
+    }

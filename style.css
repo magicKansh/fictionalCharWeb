@@ -18,11 +18,13 @@ html {
 
     .colored {
         color: #635d52;
+        display: block;
     }
 
     #tiny {
         width: 30px;
         height: 20px;
+        display: inline-block;
     }
     a {
         font-family: tuffAsh;

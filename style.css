@@ -1,0 +1,49 @@
+@font-face {
+    font-family: tuffAsh ;
+    src: url(Coolvetica\ Rg\ It.otf);
+}
+
+html {
+        background-color: #dec98c;
+    }
+    .border {
+        font-family: tuffAsh;
+        text-align: end;
+        text-decoration: wavy;
+        border-style: dashed;
+    }
+
+    p {
+        font-family: tuffAsh;
+        display: inline;
+    }
+
+    .colored {
+        color: #635d52;
+        display: block;
+    }
+
+    #tiny {
+        width: 30px;
+        height: 20px;
+        display: block;
+    }
+    #mySection {
+        display: block;
+    }
+    a {
+        font-family: tuffAsh;
+        text-decoration: solid;
+        color: #c9af61;
+    }
+    .gold {
+        display: block;
+        font-family: tuffAsh;
+        background-color: #dec16d;
+    }
+
+    a:hover{
+        text-decoration:double;
+        color: #b8a263;
+        
+    }
